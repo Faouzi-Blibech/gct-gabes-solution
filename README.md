@@ -335,11 +335,12 @@ For questions or collaboration opportunities:
 
 <div align="center">
 
-**Built with ❤️ for a cleaner, healthier Gabès**
+**Built for a cleaner, healthier Gabès**
 
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
 
 
 
