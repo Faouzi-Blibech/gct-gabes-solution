@@ -308,7 +308,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Groupe Chimique Tunisien (GCT)** for the problem context
 - **B2B Hackathon Organizers** for the opportunity
 - **Open-source community** for amazing tools and libraries
 - **Gabès residents** whose health inspired this solution
@@ -331,4 +330,5 @@ For questions or collaboration opportunities:
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
 
