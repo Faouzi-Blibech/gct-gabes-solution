@@ -322,6 +322,10 @@ For questions or collaboration opportunities:
 
 
 ---
+<img width="915" height="676" alt="image" src="https://github.com/user-attachments/assets/81e703b7-48b5-4ac8-a36b-ce210c24baf0" />
+
+
+---
 
 <div align="center">
 
@@ -330,5 +334,6 @@ For questions or collaboration opportunities:
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
 
 
