@@ -318,9 +318,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or collaboration opportunities:
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+
+- Email: faouziblibech8@gmail.com
+
 
 ---
 
@@ -331,3 +331,4 @@ For questions or collaboration opportunities:
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
