@@ -1,0 +1,113 @@
+# ============================================
+# GCT Gabès AI Solution - Git Ignore
+# ============================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch Models (too large for GitHub)
+*.pth
+*.pt
+best_pg_model.pth
+*.pkl
+brick_treatment_model.pkl
+label_encoder.pkl
+recipe_optimizer.pkl
+
+# TensorFlow/Keras Models
+*.h5
+*.hdf5
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+build/
+.cache/
+
+# React/Vite
+.vite/
+dist-ssr/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+
+# Training Outputs
+training_results.png
+output visualization/
+
+# Datasets (images are too large)
+pg_dataset/images/*.jpg
+pg_dataset/images/*.png
+pg_dataset/images/*.jpeg
+# Keep the folder structure
+!pg_dataset/images/.gitkeep
+
+# Keep metadata
+!pg_dataset/metadata.json
+
+# Coverage
+coverage/
+*.cover
+.coverage
+.coverage.*
+
+# Testing
+.pytest_cache/
+.tox/
+
+# Documentation builds
+docs/_build/
+site/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Package manager locks (optional - uncomment if team agrees)
+# package-lock.json
+# yarn.lock
