@@ -96,16 +96,22 @@ Predicts optimal treatment methods for brick strength:
 ## 🎬 Live Demo
 
 ### Dashboard
-![Dashboard Preview](./screenshots/dashboard.png)
+<img width="1229" height="656" alt="image" src="https://github.com/user-attachments/assets/d2cd2525-469d-49fa-950d-6b5d723c888d" />
+
 *Real-time monitoring with live SO₂ tracking, ML forecasts, and health impact analysis*
 
 ### CV Quality Inspector
-![CV Inspector Preview](./screenshots/cv_inspector.png)
+<img width="1226" height="671" alt="image" src="https://github.com/user-attachments/assets/d33555b2-50c8-4650-88a6-f8ba92dd3108" />
+<img width="1220" height="371" alt="image" src="https://github.com/user-attachments/assets/aecf4e98-2f35-4691-9a18-a752376dcf30" />
+
 *Upload phosphogypsum samples for instant quality grading*
 
 ### Training Results
-![Training Results](./screenshots/training_results.png)
-*100% validation accuracy on synthetic dataset*
+<img width="4170" height="3565" alt="02_prediction_comparison" src="https://github.com/user-attachments/assets/3854142b-32ca-4eca-a2f3-43acdf6d4b15" />
+<img width="3896" height="2498" alt="04_optimal_recipe_analysis" src="https://github.com/user-attachments/assets/faa2c86c-d127-4cac-acf7-4bd8dee7d34c" />
+
+
+*96% validation accuracy on synthetic dataset*
 
 ---
 
@@ -334,6 +340,7 @@ For questions or collaboration opportunities:
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
 
 
 
